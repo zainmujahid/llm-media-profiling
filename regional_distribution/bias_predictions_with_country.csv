@@ -1,0 +1,426 @@
+website,bias_label_3_class,bias_3_class_map,predictions,predicted_bias,country
+newspressnow.com,center,1,1,center,USA
+nbc4i.com,center,1,1,center,USA
+healthrangerreport.com,right,2,2,right,USA
+helenair.com,center,1,1,center,USA
+feministing.com,left,0,0,left,USA
+patrioticviralnews.com,right,2,2,right,USA (45/180 Press Freedom)
+whas11.com,center,1,1,center,USA
+fremonttribune.com,center,1,1,center,USA
+corbettreport.com,right,2,1,center,Japan (66/180 Press Freedom)
+leftvoice.org,left,0,0,left,USA (44/180 Press Freedom)
+spectrumreport.com,center,1,1,center,USA
+rollcall.com,center,1,1,center,USA (44/180 Press Freedom)
+britainfirst.org,right,2,2,right,United Kingdom
+howstuffworks.com,center,1,1,center,USA
+dailyprogress.com,center,1,1,center,USA
+levernews.com,left,0,0,left,USA
+thelibertyrevolution.com,right,2,2,right,USA
+socialistworker.org,left,0,0,left,USA
+modernliberals.com,left,0,0,left,USA
+buffalochronicle.com,right,2,2,right,USA (45/180 Press Freedom)
+usasupreme.com,right,2,1,center,Unknown
+wvtm13.com,center,1,1,center,USA
+reporterherald.com,center,1,1,center,USA
+christiansfortruth.com,right,2,2,right,Unknown
+thesun.co.uk,right,2,2,right,United Kingdom
+ahwatukee.com,center,1,1,center,USA
+americanindependent.com,left,0,0,left,USA (44/180 Press Freedom)
+nysun.com,right,2,2,right,USA
+a1apac.org,right,2,2,right,USA
+realnews24.com,left,0,1,center,Germany (13/180 Press Freedom)
+votesmart.org,center,1,1,center,USA (44/180 Press Freedom)
+ktvz.com,center,1,1,center,USA
+presidentialhill.com,right,2,2,right,USA
+hermancain.com,right,2,2,right,USA
+campaignlifecoalition.com,right,2,2,right,Canada
+wpta21.com,center,1,1,center,USA (44/180 Press Freedom)
+newscorpse.com,left,0,2,right,USA
+azfamily.com,center,1,1,center,USA
+aim.org,right,2,2,right,USA
+timesrepublican.com,center,1,1,center,USA
+abc27.com,center,1,1,center,USA
+talkingpointsmemo.com,left,0,0,left,USA (44/180 Press Freedom)
+wkbn.com,center,1,1,center,USA
+4chan.org,right,2,1,center,USA
+factcheck.org,center,1,1,center,USA (45/180 Press Freedom)
+conservativedailypost.com,right,2,2,right,Unknown
+rightwingnews.com,right,2,2,right,USA
+transpartisanreview.com,center,1,1,center,USA (45/180 Press Freedom)
+caldronpool.com,right,2,2,right,Australia
+nknews.org,center,1,1,center,USA
+koamnewsnow.com,center,1,1,center,USA
+elizabethjohnston.org,right,2,2,right,USA
+themonitor.com,center,1,1,center,USA
+ihatethemedia.com,right,2,2,right,USA
+metrowestdailynews.com,center,1,1,center,USA
+c19early.com,right,2,2,right,Unknown
+mediamatters.org,left,0,0,left,USA (44/180 Press Freedom)
+americanfreepress.net,right,2,2,right,USA
+wfmz.com,center,1,1,center,USA
+conservativefighters.co,right,2,2,right,USA
+ksbw.com,center,1,1,center,USA
+healingfoodreference.com,right,2,2,right,USA
+thegoodlordabove.com,left,0,0,left,USA
+genzconservative.com,right,2,2,right,USA
+fireboebert.com,left,0,2,right,USA
+journaldemontreal.com,right,2,2,right,Canada
+christiannewsalerts.com,right,2,2,right,USA
+shareably.net,center,1,1,center,USA (44/180 Press Freedom)
+thenewamerican.com,right,2,2,right,USA (44/180 Press Freedom)
+rairfoundation.com,right,2,2,right,USA
+inc.com,center,1,1,center,USA
+grabien.com,right,2,2,right,USA
+bignewsnetwork.com,center,1,1,center,United Arab Emirates
+cbn.com,right,2,2,right,USA
+skynews.com.au,right,2,2,right,Australia
+witn.com,center,1,1,center,USA
+jezebel.com,left,0,0,left,USA
+visiontimes.com,right,2,2,right,USA
+wikipedia.org,center,1,1,center,USA (44/180 Press Freedom)
+focusonthefamily.com,right,2,2,right,USA
+abort73.com,right,2,2,right,USA
+icij.org,center,1,1,center,USA
+ansa.it,center,1,1,center,Italy
+kaaltv.com,center,1,1,center,USA
+newsglobal.com,right,2,1,center,USA
+blackamericaweb.com,left,0,0,left,USA
+objectivist.co,right,2,2,right,USA
+americasnewssource.com,right,2,1,center,USA
+trumptrainnews.com,right,2,2,right,USA
+krtv.com,center,1,1,center,USA
+adfontesmedia.com,center,1,1,center,USA
+aldianews.com,left,0,1,center,USA
+ebar.com,left,0,0,left,USA
+gmwatch.org,left,0,0,left,United Kingdom
+rantt.com,left,0,0,left,USA
+bigthink.com,center,1,1,center,USA
+journalgazette.net,center,1,1,center,USA
+13abc.com,center,1,1,center,USA
+citizenfreepress.com,right,2,2,right,USA
+kompas.com,center,1,1,center,Indonesia
+wapt.com,center,1,1,center,USA
+trump.news,right,2,2,right,Unknown
+merryjane.com,left,0,0,left,USA (45/180 Press Freedom)
+blacklivesmatter.com,left,0,0,left,USA
+detik.com,center,1,1,center,Indonesia
+shareblue.com,left,0,0,left,USA
+milwaukeeindependent.com,left,0,0,left,USA
+newbernsj.com,center,1,1,center,USA
+desantisdaily.com,right,2,2,right,USA
+nextgov.com,center,1,1,center,USA
+villagevoice.com,left,0,0,left,USA
+gawker.com,left,0,0,left,USA
+redice.tv,right,2,2,right,Sweden
+herald-review.com,center,1,1,center,USA
+argonautnews.com,center,1,1,center,USA
+queerty.com,left,0,0,left,USA (44/180 Press Freedom)
+freedomproject.com,right,2,2,right,USA
+frc.org,right,2,2,right,USA
+poconorecord.com,center,1,1,center,USA
+cpac.ca,center,1,2,right,Canada (14/180 Press Freedom)
+freetelegraph.com,right,2,1,center,USA (44/180 Press Freedom)
+nationalreview.com,right,2,2,right,USA (44/180 Press Freedom)
+therightscoop.com,right,2,2,right,Canada (14/180 Press Freedom)
+takimag.com,right,2,2,right,USA (44/180 Press Freedom)
+themonthly.com.au,left,0,0,left,Australia
+pnj.com,center,1,1,center,USA
+splinternews.com,left,0,0,left,USA
+frnewsreport.com,left,0,0,left,Unknown
+wokesloth.com,left,0,0,left,USA
+chandlernews.com,center,1,1,center,USA
+differencebetween.net,center,1,1,center,USA
+wgem.com,center,1,1,center,USA
+libertywire.net,right,2,2,right,USA
+newspageindex.com,right,2,1,center,USA
+out.com,left,0,1,center,USA
+truththeory.com,left,0,0,left,United Kingdom
+wdtn.com,center,1,1,center,USA
+americanprinciplesproject.org,right,2,2,right,USA
+nutrientreference.com,right,2,2,right,USA
+yourblackworld.net,left,0,0,left,USA
+cw39.com,center,1,1,center,USA
+g-a-i.org,right,2,1,center,USA
+americanactionnews.com,right,2,2,right,USA
+elnuevodia.com,center,1,1,center,USA
+free-speechfront.info,right,2,1,center,Unknown
+healthcarefinancenews.com,center,1,1,center,USA (44/180 Press Freedom)
+kalb.com,center,1,1,center,USA
+todayifoundout.com,center,1,1,center,USA
+thebulltulsa.com,center,1,2,right,USA
+outragedpatriot.com,right,2,2,right,Unknown
+indexmundi.com,center,1,1,center,USA
+kcentv.com,center,1,1,center,USA
+north99.org,left,0,0,left,USA
+tnholler.com,left,0,0,left,USA
+lindelltv.com,right,2,1,center,USA
+hickoryrecord.com,center,1,1,center,USA
+americanprogress.org,left,0,0,left,USA
+thegreggjarrett.com,right,2,2,right,USA
+acton.org,right,2,2,right,USA
+americanpolicy.org,right,2,2,right,USA
+greatfallstribune.com,center,1,1,center,USA
+mondoweiss.net,left,0,0,left,USA (45/180 Press Freedom)
+mariettatimes.com,center,1,1,center,USA
+ipatriot.com,right,2,2,right,USA (44/180 Press Freedom)
+principia-scientific.org,right,2,2,right,United Kingdom
+wsfa.com,center,1,1,center,USA
+trib.com,center,1,1,center,USA
+thefranklinnewspost.com,center,1,1,center,USA
+cfr.org,center,1,1,center,USA
+beingliberal.org,left,0,0,left,USA
+wowt.com,center,1,1,center,USA
+turnto23.com,center,1,1,center,USA
+lovelycitizen.com,center,1,1,center,USA
+monthlyreview.org,left,0,0,left,USA
+wtnh.com,center,1,1,center,USA
+z3news.com,right,2,1,center,USA
+krdo.com,center,1,1,center,USA
+americangulag.org,right,2,2,right,USA
+europe-israel.org,right,2,1,center,Israel
+peta.org,left,0,0,left,USA (45/180 Press Freedom)
+gaycitynews.com,left,0,0,left,USA
+thealpenanews.com,center,1,1,center,USA
+kezi.com,center,1,1,center,USA
+sanmarcosrecord.com,center,1,1,center,USA
+wtol.com,center,1,1,center,USA
+americanpressinstitute.org,center,1,1,center,USA
+kyma.com,center,1,1,center,USA
+13wmaz.com,center,1,1,center,USA
+libertynation.com,right,2,2,right,USA
+staresattheworld.com,right,2,2,right,Canada (14/180 Press Freedom)
+revolver.news,right,2,2,right,Unknown
+ricochet.com,right,2,2,right,USA (44/180 Press Freedom)
+populistwire.com,right,2,2,right,USA
+seventeen.com,left,0,0,left,USA
+lancasteronline.com,center,1,1,center,USA
+c19proxalutamide.com,right,2,2,right,Unknown
+democrats.org,left,0,0,left,USA
+rightandfree.com,right,2,2,right,USA
+readsludge.com,left,0,0,left,USA
+hannity.com,right,2,2,right,USA
+montreal.citynews.ca,center,1,1,center,Canada
+news4jax.com,center,1,1,center,USA
+albertapressleader.ca,right,2,1,center,Canada
+valleynewslive.com,center,1,1,center,USA (45/180 Press Freedom)
+hawarnews.org,left,0,1,center,Syria
+conservativetears.com,left,0,2,right,USA
+thenationalpatriot.com,right,2,2,right,USA (44/180 Press Freedom)
+wcjb.com,center,1,1,center,USA (44/180 Press Freedom)
+dorsetecho.co.uk,center,1,1,center,United Kingdom
+yorknewstimes.com,center,1,1,center,USA
+firstdraftnews.org,center,1,1,center,USA (44/180 Press Freedom)
+cruxnow.com,center,1,1,center,USA
+ammoland.com,right,2,2,right,USA
+nwitimes.com,center,1,1,center,USA
+c19favipiravir.com,right,2,2,right,Unknown
+bluestatebluesnews.com,right,2,0,left,USA
+leftoverrights.com,left,0,1,center,USA
+newsfactsnetwork.com,center,1,1,center,USA
+ktla.com,center,1,1,center,USA
+alligator.org,left,0,1,center,USA
+newsammo.com,right,2,1,center,USA
+ksl.com,center,1,1,center,USA
+themillenniumreport.com,right,2,2,right,USA
+theohiostar.com,right,2,2,right,USA
+thepolitics.online,right,2,2,right,Unknown
+acpeds.org,right,2,2,right,USA
+pfaw.org,left,0,0,left,USA (44/180 Press Freedom)
+dailywire.com,right,2,2,right,USA
+republic-online.com,center,1,2,right,USA
+fox29.com,center,1,1,center,USA
+attackthesystem.com,left,0,0,left,USA
+citizensjournal.us,right,2,2,right,USA
+sky.com,center,1,1,center,United Kingdom
+usaspending.gov,center,1,1,center,USA
+snopes.news,right,2,2,right,USA
+kiem-tv.com,center,1,1,center,USA
+blackmainstreet.net,left,0,0,left,USA
+hbr.org,center,1,1,center,USA (44/180 Press Freedom)
+ozarksfirst.com,center,1,1,center,USA
+madworldnews.com,right,2,2,right,USA
+daily-chronicle.com,center,1,1,center,USA
+phl17.com,center,1,1,center,USA
+wbtw.com,center,1,1,center,USA
+nptelegraph.com,center,1,1,center,USA
+sbgi.net,right,2,2,right,USA (44/180 Press Freedom)
+c19fluvoxamine.com,right,2,2,right,Unknown
+giffords.org,left,0,0,left,USA
+humansarefree.com,right,2,2,right,USA (44/180 Press Freedom)
+idahostatesman.com,center,1,1,center,USA
+ksnblocal4.com,center,1,1,center,USA
+geopoliticsalert.com,left,0,0,left,USA
+telegraaf.nl,right,2,2,right,Netherlands
+tpusa.com,right,2,2,right,USA (45/180 Press Freedom)
+wnyt.com,center,1,1,center,USA
+krem.com,center,1,1,center,USA
+washingtonpress.com,left,0,0,left,USA
+thehornnews.com,right,2,2,right,USA
+valuetainment.com,right,2,1,center,USA
+westernjournal.com,right,2,2,right,USA
+thefreethoughtproject.com,left,0,0,left,USA (44/180 Press Freedom)
+c19vitamind.com,right,2,2,right,Unknown
+popularresistance.org,left,0,0,left,USA (44/180 Press Freedom)
+alaskasnewssource.com,center,1,1,center,USA
+fosters.com,center,1,1,center,USA
+c19budesonide.com,right,2,2,right,Unknown
+fox61.com,center,1,1,center,USA
+muncievoice.com,left,0,0,left,USA (44/180 Press Freedom)
+statesmanjournal.com,center,1,1,center,USA (44/180 Press Freedom)
+qconline.com,center,1,1,center,USA
+wisn.com,center,1,1,center,USA
+protothema.gr,right,2,1,center,GREECE
+thetruereporter.com,right,2,1,center,USA
+jesus-is-savior.com,right,2,2,right,USA (44/180 Press Freedom)
+supportisraelnow.com,right,2,2,right,Unknown
+libertyplanets.com,right,2,2,right,USA
+ihr.org,right,2,2,right,USA
+conservative.org,right,2,2,right,USA
+kare11.com,center,1,1,center,USA
+kitchener.citynews.ca,center,1,1,center,Canada
+projectcensored.org,left,0,0,left,USA (44/180 Press Freedom)
+beachbroadcastnews.com,right,2,2,right,USA
+wftv.com,center,1,1,center,USA
+duluthnewstribune.com,center,1,1,center,USA
+wafb.com,center,1,1,center,USA
+nra.org,right,2,2,right,USA (44/180 Press Freedom)
+nationofchange.org,left,0,0,left,USA
+steadfastclash.com,right,2,2,right,USA
+lawfareblog.com,center,1,1,center,USA
+freebeacon.com,right,2,2,right,USA
+channel3000.com,center,1,1,center,USA
+kesq.com,center,1,1,center,USA
+redstate.com,right,2,2,right,USA (44/180 Press Freedom)
+abc12.com,center,1,1,center,USA
+wlky.com,center,1,1,center,USA
+nationalsecurity.news,right,2,2,right,USA
+chippewa.com,center,1,1,center,USA
+kxii.com,center,1,1,center,USA
+treehugger.com,left,0,0,left,USA
+abc4.com,center,1,1,center,USA
+aapsonline.org,right,2,2,right,USA
+erlc.com,right,2,1,center,USA (44/180 Press Freedom)
+amren.com,right,2,2,right,USA
+theintercept.com,left,0,0,left,USA (45/180 Press Freedom)
+wtap.com,center,1,1,center,USA
+capecoralbreeze.com,center,1,1,center,USA
+newson6.com,center,1,1,center,USA
+pressfortruth.ca,right,2,2,right,Canada
+kion546.com,center,1,1,center,USA
+steamboatpilot.com,center,1,1,center,USA
+aclj.org,right,2,2,right,USA
+nomorefakenews.com,right,2,2,right,USA
+frontpagelive.com,left,0,0,left,USA
+indystar.com,center,1,1,center,USA
+welovetrump.com,right,2,2,right,USA
+leavenworthtimes.com,center,1,1,center,USA
+outlook.monmouth.edu,center,1,1,center,USA
+uscourts.gov,center,1,1,center,USA
+breitbart.com,right,2,2,right,USA
+justicedenied.org,center,1,0,left,USA
+news-journal.com,center,1,1,center,USA
+c19ic.com,right,2,2,right,Unknown
+clashdaily.com,right,2,2,right,USA
+wkyc.com,center,1,1,center,USA
+lexch.com,center,1,1,center,USA
+polinews.org,left,0,1,center,USA
+beliefnet.com,right,2,1,center,USA
+gript.ie,right,2,2,right,Ireland
+kvia.com,center,1,1,center,USA
+americanconsequences.com,right,2,2,right,USA
+kxlf.com,center,1,1,center,USA
+iowastartingline.com,left,0,0,left,USA
+myfox8.com,center,1,1,center,USA
+campusinsanity.com,right,2,2,right,USA
+merionwest.com,center,1,2,right,USA
+en-volve.com,right,2,2,right,USA
+teamdml.com,right,2,2,right,USA
+fox40jackson.com,center,1,2,right,USA
+liberationnews.org,left,0,0,left,USA (44/180 Press Freedom)
+zerohedge.com,right,2,2,right,Bulgaria
+ac2news.com,right,2,2,right,USA
+wgno.com,center,1,1,center,USA
+amarillo.com,center,1,1,center,USA
+wabi.tv,center,1,1,center,USA
+wmtw.com,center,1,1,center,USA
+awm.com,right,2,1,center,USA
+journalnow.com,center,1,1,center,USA
+upworthy.com,left,0,0,left,USA
+wjtv.com,center,1,1,center,USA
+bust.com,left,0,0,left,USA
+illegalaliencrimereport.com,right,2,2,right,USA
+krone.at,right,2,2,right,USA
+pandemic.news,right,2,1,center,USA
+alloaadvertiser.com,center,1,1,center,United Kingdom
+theflipside.io,center,1,1,center,USA
+cbs8.com,center,1,1,center,USA
+washingtonexaminer.com,right,2,2,right,USA
+wcia.com,center,1,1,center,USA
+rodong.rep.kp,left,0,0,left,North Korea
+policetribune.com,right,2,2,right,USA
+nbcnebraskascottsbluff.com,center,1,1,center,USA
+thelibertyloft.com,right,2,2,right,USA
+afa.net,right,2,2,right,USA
+theragingpatriot.org,right,2,2,right,USA
+floridapolitics.com,center,1,1,center,USA
+humanevents.com,right,2,2,right,USA (45/180 Press Freedom)
+boston25news.com,center,1,1,center,USA
+populistpress.com,right,2,2,right,USA
+pewresearch.org,center,1,1,center,USA (45/180 Press Freedom)
+cancer.news,right,2,1,center,USA
+counton2.com,center,1,1,center,USA
+thelibertydaily.com,right,2,2,right,USA (44/180 Press Freedom)
+donaldjtrump.com,right,2,2,right,USA
+eastvalleytribune.com,center,1,1,center,USA
+climaterealityproject.org,left,0,0,left,USA (45/180 Press Freedom)
+bonsens.info,right,2,1,center,France
+farleftwatch.com,right,2,0,left,USA
+aina.org,right,2,1,center,USA
+daily-journal.com,center,1,1,center,USA
+memeorandum.com,center,1,1,center,USA (44/180 Press Freedom)
+voiceofeurope.com,right,2,2,right,Unknown
+cc.org,right,2,1,center,USA
+79days.news,right,2,2,right,USA
+foreignpolicyjournal.com,left,0,0,left,USA
+nccivitas.org,right,2,2,right,USA
+patheos.com,center,1,1,center,USA (44/180 Press Freedom)
+c19quercetin.com,right,2,2,right,Unknown
+wmur.com,center,1,1,center,USA
+rense.com,right,2,2,right,USA (44/180 Press Freedom)
+yourcentralvalley.com,center,1,1,center,USA
+wfla.com,center,1,1,center,USA
+100percentfedup.com,right,2,2,right,USA
+howtogeek.com,center,1,1,center,USA
+themilitant.com,left,0,0,left,USA (45/180 Press Freedom)
+postindependent.com,center,1,1,center,USA
+neonnettle.com,right,2,2,right,United Kingdom (35/180 Press Freedom)
+uproxx.com,left,0,0,left,USA
+abovetopsecret.com,right,2,1,center,USA
+law.com,center,1,1,center,USA (44/180 Press Freedom)
+workers.org,left,0,0,left,USA (44/180 Press Freedom)
+publicpolicypolling.com,center,1,1,center,USA
+climate.news,right,2,1,center,USA
+republicreport.org,left,0,0,left,USA
+usnationalnews.org,left,0,0,left,Canada
+israelhayom.com,right,2,2,right,Israel
+conservativeundergroundnews.com,right,2,2,right,USA
+navytimes.com,center,1,1,center,USA
+wtva.com,center,1,1,center,USA
+ncsl.org,center,1,1,center,USA
+concordmonitor.com,center,1,1,center,USA
+kfvs12.com,center,1,1,center,USA
+americaslastlineofdefense.com,left,0,2,right,USA (44/180 Press Freedom)
+join1440.com,center,1,2,right,USA
+patriotpartypress.com,left,0,2,right,USA
+harpersbazaar.com,left,0,1,center,USA
+lansingstatejournal.com,center,1,1,center,USA
+kagstv.com,center,1,1,center,USA
+patrioticpost.com,right,2,2,right,USA
+deepstatejournal.com,right,2,2,right,USA
+sociable.co,center,1,1,center,Ireland
+theblueroute.org,left,0,0,left,USA
+wistv.com,center,1,1,center,USA
+valleynewstoday.com,center,1,1,center,USA
+ewg.org,left,0,0,left,USA
+newspunch.com,right,2,2,right,USA
+health.news,right,2,1,center,USA
