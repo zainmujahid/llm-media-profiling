@@ -23,29 +23,28 @@ In an age characterized by the proliferation of mis- and disinformation online, 
 </p>
 
 <!-- TOC -->
-- Methodology
-    - Handcrafted Prompts
-    - Systematic Prompts Based on Expert Criteria
-- Dataset
-- Results
-    - Factuality Prediction
-    - Political Bias Prediction
-    - Impact of Media Popularity
-- Citation
-
+- [Methodology](https://github.com/zainmujahid/llm-media-profiling?tab=readme-ov-file#-methodology)
+    - [Handcrafted Prompts](https://github.com/zainmujahid/llm-media-profiling?tab=readme-ov-file#handcrafted-prompts)
+    - [Systematic Prompts Based on Expert Criteria](https://github.com/zainmujahid/llm-media-profiling?tab=readme-ov-file#systematic-prompts-based-on-expert-criteria)
+- [Dataset](https://github.com/zainmujahid/llm-media-profiling?tab=readme-ov-file#%EF%B8%8F-dataset)
+- [Results](https://github.com/zainmujahid/llm-media-profiling?tab=readme-ov-file#-results)
+    - [Factuality Prediction](https://github.com/zainmujahid/llm-media-profiling?tab=readme-ov-file#factuality-prediction)
+    - [Political Bias Prediction](https://github.com/zainmujahid/llm-media-profiling?tab=readme-ov-file#political-bias-prediction)
+    - [Impact of Media Popularity](https://github.com/zainmujahid/llm-media-profiling?tab=readme-ov-file#impact-of-media-popularity)
+- [Citation](https://github.com/zainmujahid/llm-media-profiling?tab=readme-ov-file#-citation)
 <!-- /TOC -->
 
 ## 📊 Methodology
 
 We adopt two main prompt strategies to elicit outlet-level insights from LLMs:
 
-> ### Handcrafted Prompts
+### Handcrafted Prompts
 - 18 manually curated prompts across:
     - Stance on public figures/topics
     - Stancw on current popular issues
     - Trustworthiness & factuality
 
-> ### Systematic Prompts Based on Expert Criteria
+### Systematic Prompts Based on Expert Criteria
 - We mimic the methodology employed by fact-checking journalists across 16 policy areas.
 - The LLM is asked to provide left/right leaning and reasoning for each.
 
