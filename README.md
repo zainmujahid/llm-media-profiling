@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://www.linkedin.com/in/zainmujahid/" target="_blank">Zain Muhammad Mujahid</a>, <a href="https://www.linkedin.com/in/dilshod-azizov1999/" target="_blank">Dilshod Azizov</a>, <a href="https://www.linkedin.com/in/maha-tufail-agro/" target="_blank">Maha Tufail Agro</a>,  <a href="https://mbzuai.ac.ae/study/faculty/preslav-nakov/" target="_blank">Preslav Nakov</a>
 <p align="center" float="left">
   <img src="assets/mbzuai.png" height="40" />
-  <img src="assets/ucph.jpg" height="40" />
+<!--   <img src="assets/ucph.jpg" height="40" /> -->
 </p>
 
 
